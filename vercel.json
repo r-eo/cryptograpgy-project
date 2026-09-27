@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/cipher-corp/index.html"
+    },
+    {
+      "source": "/cipher-corp",
+      "destination": "/cipher-corp/index.html"
+    }
+  ]
+}
